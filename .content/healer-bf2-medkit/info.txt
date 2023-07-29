@@ -1,0 +1,23 @@
+
+Info
+{
+
+	"name"				"BF2 Medkit Replacement"
+	"description"		"The Battlefield 2 medkit replacement for the default weapon_healer model"
+
+	"version"			"2"
+	"created"			"2007 August 06"
+	"modified"			"2022 March 28"
+
+	"creator"
+	{
+
+		"name"			"V92"
+		"contact"		"Steam"
+		"url"			"https://steamcommunity.com/profiles/76561197998218505"
+
+	}
+
+	"override"			true
+
+}

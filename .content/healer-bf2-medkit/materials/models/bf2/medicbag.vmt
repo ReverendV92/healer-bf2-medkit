@@ -1,0 +1,11 @@
+
+vertexlitgeneric
+{
+
+	$basetexture models/bf2/medicbag_d
+	$bumpmap models/bf2/medicbag_b
+	$lightwarptexture dev/identitylightwarp
+
+	$halflambert 1
+
+}
